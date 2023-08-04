@@ -1,0 +1,1 @@
+package rays.equal.hashcod;
